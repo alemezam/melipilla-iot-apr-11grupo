@@ -63,6 +63,7 @@ Integrantes: Alexander Meza - Matias Aliaga
 
 * Si **temperatura > 28°C** → encender ventilador.
 * Si **luz < umbral** → encender LED de apoyo.
+* Si **humedad > 80%** → abrir ventanas/encender ventiladores.  
 * Todo visible en un **dashboard accesible desde tu celular**.
 
 ---
