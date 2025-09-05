@@ -22,7 +22,7 @@ Integrantes: Alexander Meza - Matias Aliaga
 
 * **DHT22 o DHT11** → mide temperatura y humedad del aire.
 * **BH1750 o LDR (fotoresistor)** → mide luminosidad (para controlar LEDs o determinar apertura/cierre de ventilación).
-* (Opcional) **Sensor de humedad de suelo capacitivo** → si quieres controlar riego también.
+
 
 ---
 
@@ -31,7 +31,7 @@ Integrantes: Alexander Meza - Matias Aliaga
 * **Módulo de relés de 2 a 4 canales (5V)** → para encender/apagar ventiladores, luces, bomba de agua.
 * **Ventilador pequeño (5V o 12V, tipo cooler de PC)** → simula la ventilación del invernadero.
 * **Tira LED blanca o lámpara LED (5V/12V)** → para simular luz artificial en caso de baja luminosidad.
-* (Opcional) **Mini bomba de agua sumergible (5V o 12V)** → para riego automático.
+
 
 ---
 
