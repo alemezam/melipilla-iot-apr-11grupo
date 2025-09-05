@@ -62,7 +62,6 @@ Integrantes: Alexander Meza - Matias Aliaga
 ## 💡 Ejemplo de uso en tu maqueta
 
 * Si **temperatura > 28°C** → encender ventilador.
-* Si **humedad < 40%** → activar bomba de agua (riego).
 * Si **luz < umbral** → encender LED de apoyo.
 * Todo visible en un **dashboard accesible desde tu celular**.
 
