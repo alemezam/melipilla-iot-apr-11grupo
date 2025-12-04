@@ -43,7 +43,7 @@ Integrantes: Alexander Meza - Matias Aliaga
 
 ### 5. **Conectividad y visualización**
 
-* **Node-RED o Grafana** en la Raspberry Pi → dashboard web para controlar y visualizar datos.
+* **Node-RED o Grafana** en la ArduinoUNO → dashboard web para controlar y visualizar datos.
 * **MQTT (Mosquitto)** → para comunicación interna de los sensores/actuadores.
 * Acceso desde celular o PC a la interfaz web.
 
@@ -51,8 +51,8 @@ Integrantes: Alexander Meza - Matias Aliaga
 
 ## ⚡ Diagrama funcional básico
 
-1. **Sensores → Raspberry Pi**: capturan datos (temp, humedad, luz).
-2. **Raspberry Pi → Relés**: decide cuándo encender ventilador, luces o extractores.
+1. **Sensores → ArduinoUNO **: capturan datos (temp, humedad, luz).
+2. **ArduinoUNO → Relés**: decide cuándo encender ventilador, luces o extractores.
 3. **Dashboard web**: permite ver datos en tiempo real y activar manualmente ventilación o luz.
 
 ---
