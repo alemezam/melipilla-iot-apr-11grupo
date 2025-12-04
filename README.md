@@ -13,7 +13,6 @@ Integrantes: Alexander Meza - Matias Aliaga
 ### 1. **Controlador principal**
 
 * **ArduinoUNO** → será el cerebro del sistema.
-* **MicroSD (16-32 GB)** → para sistema operativo y programas.
 * **Fuente de poder (5V 2-3A)** → estable para ArduinoUNO.
 
 ---
